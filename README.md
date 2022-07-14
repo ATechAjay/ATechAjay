@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/atechajay" target="blank"><img src="https://img.shields.io/twitter/follow/atechajay?logo=twitter&style=for-the-badge" alt="atechajay" /></a> </p>
 
-<a href="https://app.daily.dev/ATechAjay"><img src="https://api.daily.dev/devcards/0ce8ffa207434697831c308ac804787b.png?r=kyj" width="400" alt="Ajay Yadav's Dev Card"/></a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 - 🌱 I’m currently learning: **JavaScript ⚡**
 
 - 💬 Ask me about: **HTML, CSS, JavaScript, GitHub, Tailwind, Figma,etc.**
