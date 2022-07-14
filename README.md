@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact: **Burning Fire**
 
+<a href="https://app.daily.dev/ATechAjay"><img src="https://api.daily.dev/devcards/0ce8ffa207434697831c308ac804787b.png?r=kyj" width="400" alt="Ajay Yadav's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/atechajay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ATechAjay" height="30" width="40" /></a>
