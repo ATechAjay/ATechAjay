@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **HTML, CSS, JavaScript, GitHub, Tailwind, Figma,etc.**
 
-- 📫 How to reach me: **imajydv8298@gmail.com**
+- 📫 How to reach me: **aj.yadav.dev@gmail.com**
 
 - ⚡ Fun fact: **Burning Fire**
 
