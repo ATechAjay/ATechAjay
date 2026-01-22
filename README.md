@@ -98,6 +98,10 @@ I build clean, scalable web apps and explain how things work 👉🏻 in simple 
 </p>
 
 ---
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/atechajay/atechajay/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## ⚡ Fun Fact
 
